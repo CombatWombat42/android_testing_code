@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, Hello_androidActivity!</string>
+    <string name="hello">this is values/strings.xml:hello</string>
     <string name="app_name">Hello_android</string>
+    <string name="Cancel">cAnCeL</string>
+    <string name="OK">0|&lt;</string>
 </resources>
