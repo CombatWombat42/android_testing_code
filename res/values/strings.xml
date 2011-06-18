@@ -2,6 +2,7 @@
 <resources>
     <string name="hello">this is values/strings.xml:hello</string>
     <string name="app_name">Hello_android</string>
-    <string name="Cancel">cAnCeL</string>
-    <string name="OK">0|&lt;</string>
+    <string name="cancel">cAnCeL</string>
+    <string name="ok">0|&lt;</string>
 </resources>
+	
